@@ -1,5 +1,5 @@
 # Todo List App
-Đây là ứng dụng Todo List đơn giản được xây dựng bằng HTML, CSS và JavaScript
+Đây là ứng dụng Todo List đơn giản được xây dựng bằng HTML, CSS và JavaScript.
 Project này được thực hiện để luyện tập DOM manipulation và JavaScript cơ bản.
 
 ## Demo

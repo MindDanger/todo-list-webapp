@@ -20,11 +20,11 @@ Link demo: https://minddanger.github.io/todo-list-webapp/
 * JavaScript
 
 ## Cấu trúc project
-
+```
 todo-list-app
 │
 ├── index.html
 ├── style.css
 └── script.js
-
+```
 # Thực hiện bởi: Bùi Minh Đăng

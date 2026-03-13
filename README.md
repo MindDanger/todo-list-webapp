@@ -21,7 +21,7 @@ Link demo: https://minddanger.github.io/todo-list-webapp/
 
 ## Cấu trúc project
 ```
-todo-list-app
+todo-list-webapp
 │
 ├── index.html
 ├── style.css
